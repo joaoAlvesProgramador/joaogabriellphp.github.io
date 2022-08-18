@@ -22,3 +22,9 @@ ul {
   li a:hover {
     background-color: #111;
   }
+  body{
+    background-color: #333;
+  }
+  h2{
+    font-family: 'Courier New', Courier, monospace;
+  }
